@@ -32,7 +32,7 @@ I just want to thank you [Rocketseat](https://rocketseat.com.br) for this awesom
 
 ## Some App Images
 
-<img src="images/image1.png" width="700">
-<img src="images/image2.png" width="700">
-<img src="images/image3.png" width="700">
-<img src="images/image4.png" width="700">
+<img src="images/image1.PNG" width="700">
+<img src="images/image2.PNG" width="700">
+<img src="images/image3.PNG" width="700">
+<img src="images/image4.PNG" width="700">
