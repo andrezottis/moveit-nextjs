@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Move-it | NextJS
+I've made this web application during the Next Level Week#4 promoted by the Rocket Seat team! 
 
-## Getting Started
+## Details
+How to keep your focus and also get some beneffits for you help during this home office time? 
+Use Move-it pomodoro timer and level up!
 
-First, run the development server:
+ ### Features:
+ - All the backend is provided by NodeJS.
+ - The frontend is made with React, CSS and NextJS!
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### How do I run it?
+- Clone the repository
+- run 'npm install' at app folder. (I suggest you to use VSCode).
+- After all packages being restored, run the command 'yarn dev'. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Requirements
+- Node JS
+- yarn
+- Code tool (VS Code).
+ 
+## Authors
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+* **André Zottis** - *Initial work* - [AndreZottis](https://github.com/andrezottis)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## License
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Learn More
+## Special Thanks
+I just want to thank you [Rocketseat](https://rocketseat.com.br) for this awesome opportunity to learn more about those technologies. This week was really amazing and I've learned a lot!
 
-To learn more about Next.js, take a look at the following resources:
+## Some App Images
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="images/image1.png" width="700">
+<img src="images/image2.png" width="700">
+<img src="images/image3.png" width="700">
+<img src="images/image4.png" width="700">
